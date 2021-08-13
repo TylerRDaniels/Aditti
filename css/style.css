@@ -110,6 +110,23 @@ body {
     color: white;
 }
 
+.slider {
+    padding: 5px;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.sliders {
+    position: absolute;
+    left: 720px;
+    top: 320px;
+}
+
+.slider:hover {
+    background-color: rgb(206, 206, 206);
+}
+
 .block1 {
     margin-top: 25px;
 }
